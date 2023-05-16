@@ -82,8 +82,9 @@ require (
 	github.com/vulcand/predicate v1.1.0
 	go.elastic.co/apm v1.7.0
 	go.elastic.co/apm/module/apmot v1.7.0
-	golang.org/x/mod v0.3.0
-	golang.org/x/net v0.0.0-20210220033124-5f55cee0dc0d
+	golang.org/x/mod v0.8.0
+	golang.org/x/net v0.8.1-0.20230320201749-6960703597ad
+	golang.org/x/sys v0.6.1-0.20230317000753-00d8004a1448 // indirect
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324
 	google.golang.org/grpc v1.27.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.19.0
